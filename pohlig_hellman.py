@@ -1,5 +1,6 @@
 import math
 import random
+from calc import pow
 
 
 def is_prime(p, k):

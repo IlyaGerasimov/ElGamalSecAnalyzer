@@ -1,3 +1,6 @@
+from calc import pow
+
+
 def table(a, n, t):
     l = list()
     a = pow(a, t, n)

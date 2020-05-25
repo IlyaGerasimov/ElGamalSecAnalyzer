@@ -1,1 +1,0 @@
-The result of the algorithm is: 7

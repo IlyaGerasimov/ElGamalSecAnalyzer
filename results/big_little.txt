@@ -1,1 +1,0 @@
-Parameter t is chosen as: 3
